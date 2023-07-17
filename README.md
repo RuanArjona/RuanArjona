@@ -18,7 +18,7 @@
 ## Stats
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202EE2FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc2b2b&height=120&section=header"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuanArjona&show_icons=true&count_private=true&hide_border=true&title_color=fc2b2b&text_color=f7f7f7&bg_color=0d1117" alt="Ruan Arjona github stats" /> 
