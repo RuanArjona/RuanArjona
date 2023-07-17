@@ -9,6 +9,8 @@
   </a>
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/RuanArjona/count.svg)
+
 ## 🌐 Socials:  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Barruan.11/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ruanarjona/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-arjona-0a1a331a4/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RuanArjona1)
 
@@ -18,31 +20,12 @@
 ## Stats
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-![](https://github-readme-stats.vercel.app/api?username=RuanArjona&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RuanArjona&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanArjona&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-======================
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RuanArjona&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RuanArjona&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanArjona&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![Visitor Count](https://profile-counter.glitch.me/RuanArjona/count.svg)
-
-___________________________________________________________________________________________________________________________________________________________________________________
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202EE2FF&height=120&section=header"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuanArjona&show_icons=true&count_private=true&hide_border=true&title_color=4B0082icon_color=9370DB&text_color=9370DB&bg_color=0d1117" alt="Ruan Arjona github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanArjona&layout=compact&hide_border=true&title_color=9400D3&text_color=9370DB&bg_color=0d1117" />
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/RuanArjona/count.svg)
 
 <div align="center">
   
