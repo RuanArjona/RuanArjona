@@ -13,12 +13,6 @@
  <div>
   <a href="https://github.com/RuanArjona">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanArjona&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanArjona&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-    
-<div>
-
-  ![RuanArjona GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanArjona&show_icons=true&theme=dracula)  
 
   ![RuanArjona top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanArjona&theme=dracula)  
   
