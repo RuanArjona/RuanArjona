@@ -3,6 +3,10 @@
 + Systems Analysis and Development at Estácio University de Ribeirão Preto - SP
 + Python programmer for Quality Assurance and Information Security
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1727F7&width=435&lines=print(%22Hello+word!%22)" alt="Typing SVG" />
+</a>
+
 ## 🌐 Socials:  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Barruan.11/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ruanarjona/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-arjona-0a1a331a4/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RuanArjona1)
 
