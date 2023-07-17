@@ -4,7 +4,8 @@
 + Python programmer for Quality Assurance and Information Security
 
 <div>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://www.facebook.com/Barruan.11/">
 </div>
 
 <p align="center">
