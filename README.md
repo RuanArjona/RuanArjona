@@ -4,8 +4,13 @@
 + Python programmer for Quality Assurance and Information Security
 
 <div>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://www.facebook.com/Barruan.11/">
+
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-arjona-0a1a331a4/)
+  
+  <a href="https://www.facebook.com/Barruan.11/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
 </div>
 
 <p align="center">
@@ -23,6 +28,9 @@ ________________________________________________________________________________
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuanArjona&show_icons=true&count_private=true&hide_border=true&title_color=4B0082icon_color=9370DB&text_color=9370DB&bg_color=0d1117" alt="Ruan Arjona github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanArjona&layout=compact&hide_border=true&title_color=9400D3&text_color=9370DB&bg_color=0d1117" />
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/RuanArjona/count.svg)
+
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
