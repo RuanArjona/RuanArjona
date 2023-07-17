@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I'm Ruan Arjona!👋
 
-# Hi, I'm Ruan Arjona!
 + Systems Analysis and Development at Estácio University de Ribeirão Preto - SP
++ Python programmer for Quality Assurance and Information Security
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -28,15 +28,12 @@
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202EE2FF&height=120&section=header"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuanArjona&show_icons=true&count_private=true&hide_border=true&title_color=4B0082icon_color=9370DB&text_color=9370DB&bg_color=0d1117" alt="Ruan Arjona github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanArjona&layout=compact&hide_border=true&title_color=9400D3&text_color=9370DB&bg_color=0d1117" />
 </div>
-
- <div align="center">
-
+<div align="center">
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
