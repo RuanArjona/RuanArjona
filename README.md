@@ -10,10 +10,13 @@
 </p>
 
 ## Stats
+<div>
 
-![RuanArjona GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterTJ123&show_icons=true&theme=dracula)  
+  ![RuanArjona GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterTJ123&show_icons=true&theme=dracula)  
 
-![RuanArjona top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterTJ123&theme=dracula)  
+  ![RuanArjona top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterTJ123&theme=dracula)  
+  
+</div>
 
 <!--<div style="display: inline_block"><br>
   <img align="center" alt="Ste-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
