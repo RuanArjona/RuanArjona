@@ -13,8 +13,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ruanarjona@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-arjona-0a1a331a4/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RuanArjona1)
 
 ## Skills:
-![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?&logo=r&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&logo=kubernetes&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<!--![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?&logo=r&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&logo=kubernetes&logoColor=white)-->
+[![My Skills](https://skillicons.dev/icons?i=cypress,docker,git,html,css,js,linux,mysql,nodejs,postman,py,react,selenium)](https://skillicons.dev)
 ## Stats
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2134ff&height=120&section=header"/>
