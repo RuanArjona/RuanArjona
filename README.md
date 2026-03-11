@@ -38,7 +38,7 @@ Areas of interest:
 
 ## Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,cypress,selenium,postman,docker,git,github,linux,bash,js,html,css,mysql,gherkin,nodejs&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cypress,selenium,postman,gherkin,mysql,js,html,css,linux,bash)](https://skillicons.dev)
 
 ### Testing
 
